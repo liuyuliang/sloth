@@ -41,10 +41,6 @@ host | port | username | password | dbname
 ------------ | ------------- | ------------- | ------------- | -------------
 127.0.0.1 | 3306 | root | 123456 | test
 
-      | host      | port | username | password | dbname |
-      |-----------|------|----------|----------|--------|
-      | 127.0.0.1 | 3306 | root     |  123456  | test   |
-      
 - __Step 2: Clone Sloth__
 ```bash
 git clone https://github.com/coolcooldee/sloth.git
